@@ -1,0 +1,50 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+*.dll
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+.virtualenv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Large model files
+*.pt
+*.onnx
+
+# Logs and database files
+*.log
+*.sqlite3
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Python env files
+*.env
+.env
+
+# PIP dependency file
+pip-log.txt
+
+# IDE/editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# PyInstaller
+#  Usually these files are written by a python script from a template
+*.spec
+
+# Test coverage reports
+htmlcov/
+.coverage
+.tox/
+.nox/
